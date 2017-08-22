@@ -62,8 +62,8 @@ casper.wait(2000,function () {
 /*等待资源被加载完成*/
 // casper.on('resource.received', function (resource) {
 //     this.fill('div[id="loginU"]', {
-//         'loginname': 'dujun_dujun@126.com',
-//         'Password': 'dujun19870415'
+//         'loginname': '',
+//         'Password': ''
 //     }, true);
 //     console.log(resource.url)
 //     casper.capture('1111.png');
